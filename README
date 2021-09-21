@@ -1,0 +1,9 @@
+npm init -y # generate server, instead of line by line
+npm install express
+node index.js
+npm install node-fetch@2.6.1
+
+# Routes are analogous to page sections on, say, New York Times
+
+
+# Gitpod can grant you access to a server
